@@ -1,6 +1,3 @@
-# Starwars
-Technical Interview for Penn Entertainment
-
 ## Success 
 
 Managed to download the data from (https://swapi.dev/api/people/?format=json) and display the names in a list that allows you to navigate to another view.
